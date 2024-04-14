@@ -1,5 +1,5 @@
 ### Profile
-I am a final-year graduate student majoring in Computer Science and Mathematics at the [Faculty of Science](https://www.pmf.unizg.hr/math/en), University of Zagreb. My areas of interest include machine learning and mathematical statistics, but I am also interested in game development and web applications, as well as theoretical computer science (mathematical logic, computability, program interpretation).
+I am a final-year graduate student majoring in Computer Science and Mathematics at the [Faculty of Science](https://www.pmf.unizg.hr/math/en), University of Zagreb, currently working as a Data Scientist Intern at [Infobip](https://www.infobip.com/). My primary areas of interest include Machine Learning and Mathematical Statistics, which I have deeply explored and am passionate about. Additionally, I maintain keen interests in both web and game development, complementing my expertise in theoretical computer science areas such as Mathematical Logic, Computability, and Compiler Theory.
 <br/>
 <br/>
 📫 rgrabovac123@gmail.com
